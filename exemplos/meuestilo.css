@@ -1,0 +1,19 @@
+h1 {
+    background-color: rgb(252, 0, 0);
+    border: 1px solid blueviolet;
+    width: 70%;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 18pt;
+}
+
+.mult3 {
+    font-size: 24pt;
+    color: rgb(116, 128, 196);
+}
+
+#especial {
+    background-color: rgb(0, 0, 0);
+}
